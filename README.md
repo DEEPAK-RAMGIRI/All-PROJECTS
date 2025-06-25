@@ -3,7 +3,7 @@
 Hi there! 👋  
 Welcome to my **Projects** section — a curated collection of my best work, where I showcase hands-on learning, creativity, and technical skills across different domains.
 
-# 1. [My Portfolio](deepakramgiri.tech)
+# 1. [My Portfolio](https://deepakramgiri.tech/)
 This is my portfolio — a complete showcase of who I am and what I do.
 Here, you'll find all my major projects, my skills, certifications, and what I’m currently learning and Explore my work and feel free to connect with me — I’m always open to learning, building, and collaborating!
 
