@@ -13,8 +13,11 @@ Foodies is a responsive, single-page restaurant website built using React.js. It
 # 3. [Song Recommendation System](https://github.com/DEEPAK-RAMGIRI/Information-Retrieval-System-IRS-/blob/main/PROJECT.ipynb)
 This project is a simple content-based song recommender using song lyrics. It preprocesses lyrics, converts them into TF-IDF vectors, and uses cosine similarity to suggest songs with similar lyrics. Built with Pandas, Scikit-learn, and NLTK, it analyzes a sample of 20,000 songs for fast and meaningful recommendations.
 
+# 4. [My LLM Chatbot](https://github.com/DEEPAK-RAMGIRI/llm/tree/main/MyBot)
+Blue LLM is a personalized AI chatbot designed to share information about me, the challenges I faced during building projects, and the technical knowledge I applied in them.
+It is built using Streamlit, LangChain, and various AI model integrations, making it interactive and informative for portfolio visitors.
 
-# 4. [Hotel Brochure Design](https://www.canva.com/design/DAGIq3OqnRM/GYtdP6tfdcAs62uNdLqeNA/edit?utm_content=DAGIq3OqnRM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+# 5. [Hotel Brochure Design](https://www.canva.com/design/DAGIq3OqnRM/GYtdP6tfdcAs62uNdLqeNA/edit?utm_content=DAGIq3OqnRM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 This is a hotel brochure designed using **Canva**, aimed at presenting key features of a hotel in a visually appealing and professional layout. The design focuses on clarity, structure, and hospitality branding.
 
 
