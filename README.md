@@ -3,21 +3,31 @@
 Hi there! 👋  
 Welcome to my **Projects** section — a curated collection of my best work, where I showcase hands-on learning, creativity, and technical skills across different domains.
 
-# 1. [My Portfolio](https://deepakramgiri.tech/)
+## 1. [My Portfolio](https://deepakramgiri.tech/)
 This is my portfolio — a complete showcase of who I am and what I do.
 Here, you'll find all my major projects, my skills, certifications, and what I’m currently learning and Explore my work and feel free to connect with me — I’m always open to learning, building, and collaborating!
+![My Portfolio]()
 
-# 2.[Foodies](https://github.com/DEEPAK-RAMGIRI/foodies):
+## 2. [Foodies](https://github.com/DEEPAK-RAMGIRI/foodies)
 Foodies is a responsive, single-page restaurant website built using React.js. It features a modern UI, interactive chatbot integration using Dialogflow, and is deployed using Vercel for fast and scalable access.
 
-# 3. [Song Recommendation System](https://github.com/DEEPAK-RAMGIRI/Information-Retrieval-System-IRS-/blob/main/PROJECT.ipynb)
-This project is a simple content-based song recommender using song lyrics. It preprocesses lyrics, converts them into TF-IDF vectors, and uses cosine similarity to suggest songs with similar lyrics. Built with Pandas, Scikit-learn, and NLTK, it analyzes a sample of 20,000 songs for fast and meaningful recommendations.
+![Foodies ScreenShot](https://github.com/DEEPAK-RAMGIRI/foodies/blob/main/Foodies.png)
 
-# 4. [My LLM Chatbot](https://github.com/DEEPAK-RAMGIRI/llm/tree/main/MyBot)
+## 3. [Song Recommendation System](https://github.com/DEEPAK-RAMGIRI/Song-Recommendation-System)
+This project is a simple content-based song recommender using song lyrics. It preprocesses lyrics, converts them into TF-IDF vectors, and uses cosine similarity to suggest songs with similar lyrics. Built with Pandas, Scikit-learn, and NLTK, it analyzes a sample of 25,000 songs for fast and meaningful recommendations.
+
+![Project Screenshot](https://github.com/DEEPAK-RAMGIRI/Song-Recommendation-System/blob/main/SONG%20RECCOMENDATION.png)
+
+## 4. [My LLM Chatbot](https://github.com/DEEPAK-RAMGIRI/llm/tree/main/MyBot)
 Blue LLM is a personalized AI chatbot designed to share information about me, the challenges I faced during building projects, and the technical knowledge I applied in them.
 It is built using Streamlit, LangChain, and various AI model integrations, making it interactive and informative for portfolio visitors.
 
-# 5. [Hotel Brochure Design](https://www.canva.com/design/DAGIq3OqnRM/GYtdP6tfdcAs62uNdLqeNA/edit?utm_content=DAGIq3OqnRM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+## 5. [DRUM KIT PROJECT](https://projects-henna.vercel.app/)
+A web application built with HTML, CSS, and JavaScript. Users can play drum sounds by clicking buttons or pressing keys, with animations for visual feedback. It uses DOM methods for event handling and interactive sound effects.
+
+![DRUM KIT PROJECT](https://github.com/DEEPAK-RAMGIRI/PROJECTS/blob/main/GAMES/Drum%20Kit(DOM)/DRUMKIT.png)
+
+## 6. [Hotel Brochure Design](https://www.canva.com/design/DAGIq3OqnRM/GYtdP6tfdcAs62uNdLqeNA/edit?utm_content=DAGIq3OqnRM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 This is a hotel brochure designed using **Canva**, aimed at presenting key features of a hotel in a visually appealing and professional layout. The design focuses on clarity, structure, and hospitality branding.
 
-
+![HOTEL](https://github.com/DEEPAK-RAMGIRI/PROJECTS/blob/main/HOTEL.png)
