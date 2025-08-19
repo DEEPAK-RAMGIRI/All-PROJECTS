@@ -6,7 +6,8 @@ Welcome to my **Projects** section — a curated collection of my best work, whe
 ## 1. [My Portfolio](https://deepakramgiri.tech/)
 This is my portfolio — a complete showcase of who I am and what I do.
 Here, you'll find all my major projects, my skills, certifications, and what I’m currently learning and Explore my work and feel free to connect with me — I’m always open to learning, building, and collaborating!
-![My Portfolio]()
+
+![My Portfolio](https://github.com/DEEPAK-RAMGIRI/PORTFOLIO-FINAL/blob/main/my%20portfolio.png)
 
 ## 2. [Foodies](https://github.com/DEEPAK-RAMGIRI/foodies)
 Foodies is a responsive, single-page restaurant website built using React.js. It features a modern UI, interactive chatbot integration using Dialogflow, and is deployed using Vercel for fast and scalable access.
