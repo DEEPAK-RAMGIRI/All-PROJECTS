@@ -23,7 +23,7 @@ This project is a simple content-based song recommender using song lyrics. It pr
 Blue LLM is a personalized AI chatbot designed to share information about me, the challenges I faced during building projects, and the technical knowledge I applied in them.
 It is built using Streamlit, LangChain, and various AI model integrations, making it interactive and informative for portfolio visitors.
 
-## 5. [DRUM KIT PROJECT](https://projects-henna.vercel.app/)
+## 5. [DRUM KIT PROJECT]([https://projects-henna.vercel.app/](https://github.com/DEEPAK-RAMGIRI/PROJECTS/tree/main/GAMES/Drum%20Kit(DOM)))
 A web application built with HTML, CSS, and JavaScript. Users can play drum sounds by clicking buttons or pressing keys, with animations for visual feedback. It uses DOM methods for event handling and interactive sound effects.
 
 ![DRUM KIT PROJECT](https://github.com/DEEPAK-RAMGIRI/PROJECTS/blob/main/GAMES/Drum%20Kit(DOM)/DRUMKIT.png)
