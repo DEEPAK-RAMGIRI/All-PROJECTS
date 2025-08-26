@@ -30,7 +30,12 @@ A web application built with HTML, CSS, and JavaScript. Users can play drum soun
 
 ![DRUM KIT PROJECT](https://github.com/DEEPAK-RAMGIRI/PROJECTS/blob/main/GAMES/Drum%20Kit(DOM)/DRUMKIT.png)
 
-## 6. [Hotel Brochure Design](https://www.canva.com/design/DAGIq3OqnRM/GYtdP6tfdcAs62uNdLqeNA/edit?utm_content=DAGIq3OqnRM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+## 6. [QR-CODE GENERATOR](https://github.com/DEEPAK-RAMGIRI/PROJECTS/tree/main/QR-CODE)
+This project is a web-based QR code generator that allows users to enter any URL and instantly receive a corresponding QR code. The frontend is built using HTML, CSS, and JavaScript, while the backend uses a serverless function on Vercel with the qr-image library. When a URL is submitted, the serverless function generates a PNG QR code, encodes it in Base64, and returns it to the browser, which displays it immediately without reloading the page. The project is lightweight, secure, and easy to deploy.
+
+![QR-CODE PROJECT IMAGE](https://github.com/DEEPAK-RAMGIRI/PROJECTS/blob/main/QR-CODE/qr-code.png)
+
+## 7. [Hotel Brochure Design](https://www.canva.com/design/DAGIq3OqnRM/GYtdP6tfdcAs62uNdLqeNA/edit?utm_content=DAGIq3OqnRM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 This is a hotel brochure designed using **Canva**, aimed at presenting key features of a hotel in a visually appealing and professional layout. The design focuses on clarity, structure, and hospitality branding.
 
 ![HOTEL](https://github.com/DEEPAK-RAMGIRI/PROJECTS/blob/main/HOTEL.png)
