@@ -35,7 +35,12 @@ This project is a web-based QR code generator that allows users to enter any URL
 
 ![QR-CODE PROJECT IMAGE](https://github.com/DEEPAK-RAMGIRI/PROJECTS/blob/main/QR-CODE/qr-code.png)
 
-## 7. [Hotel Brochure Design](https://www.canva.com/design/DAGIq3OqnRM/GYtdP6tfdcAs62uNdLqeNA/edit?utm_content=DAGIq3OqnRM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+## 7. [DSA-VISUALIZER](https://github.com/DEEPAK-RAMGIRI/DSA-VISUALIZER/blob/main/README.md)
+DSA-VISUALIZER is is a self-developed project where I showcase my understanding of Data Structures and Algorithms (DSA) by writing the implementations and adding a simple UI using Streamlit. The focus is on learning and demonstrating core DSA concepts with some visual representation.
+
+![Dsa project photo](https://github.com/DEEPAK-RAMGIRI/DSA-VISUALIZER/blob/main/page.png)
+
+## 8. [Hotel Brochure Design](https://www.canva.com/design/DAGIq3OqnRM/GYtdP6tfdcAs62uNdLqeNA/edit?utm_content=DAGIq3OqnRM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 This is a hotel brochure designed using **Canva**, aimed at presenting key features of a hotel in a visually appealing and professional layout. The design focuses on clarity, structure, and hospitality branding.
 
 ![HOTEL](https://github.com/DEEPAK-RAMGIRI/PROJECTS/blob/main/HOTEL.png)
