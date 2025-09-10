@@ -14,33 +14,43 @@ Foodies is a responsive, single-page restaurant website built using React.js. It
 
 ![Foodies ScreenShot](https://github.com/DEEPAK-RAMGIRI/foodies/blob/main/Foodies.png)
 
-## 3. [Song Recommendation System](https://github.com/DEEPAK-RAMGIRI/Song-Recommendation-System)
+
+## 3. [DSA-VISUALIZER](https://github.com/DEEPAK-RAMGIRI/DSA-VISUALIZER/blob/main/README.md)
+DSA-VISUALIZER is is a self-developed project where I showcase my understanding of Data Structures and Algorithms (DSA) by writing the implementations and adding a simple UI using Streamlit. The focus is on learning and demonstrating core DSA concepts with some visual representation.
+
+![Dsa project photo](https://github.com/DEEPAK-RAMGIRI/DSA-VISUALIZER/blob/main/page.png)
+
+## 4. [Song Recommendation System](https://github.com/DEEPAK-RAMGIRI/Song-Recommendation-System)
 This project is a simple content-based song recommender using song lyrics. It preprocesses lyrics, converts them into TF-IDF vectors, and uses cosine similarity to suggest songs with similar lyrics. Built with Pandas, Scikit-learn, and NLTK, it analyzes a sample of 25,000 songs for fast and meaningful recommendations.
 
 ![Project Screenshot](https://github.com/DEEPAK-RAMGIRI/Song-Recommendation-System/blob/main/SONG%20RECCOMENDATION.png)
 
-## 4. [My LLM Chatbot](https://github.com/DEEPAK-RAMGIRI/llm/tree/main/MyBot)
+## 5. [My LLM Chatbot](https://github.com/DEEPAK-RAMGIRI/llm/tree/main/MyBot)
 Blue LLM is a personalized AI chatbot designed to share information about me, the challenges I faced during building projects, and the technical knowledge I applied in them.
 It is built using Streamlit, LangChain, and various AI model integrations, making it interactive and informative for portfolio visitors.
 
 ![project Photo](https://github.com/DEEPAK-RAMGIRI/llm/blob/main/MyBot/llm.png)
 
-## 5. [DRUM KIT PROJECT](https://github.com/DEEPAK-RAMGIRI/PROJECTS/tree/main/GAMES/Drum%20Kit(DOM))
+## 6. [DRUM KIT PROJECT](https://github.com/DEEPAK-RAMGIRI/PROJECTS/tree/main/GAMES/Drum%20Kit(DOM))
 A web application built with HTML, CSS, and JavaScript. Users can play drum sounds by clicking buttons or pressing keys, with animations for visual feedback. It uses DOM methods for event handling and interactive sound effects.
 
 ![DRUM KIT PROJECT](https://github.com/DEEPAK-RAMGIRI/PROJECTS/blob/main/GAMES/Drum%20Kit(DOM)/DRUMKIT.png)
 
-## 6. [QR-CODE GENERATOR](https://github.com/DEEPAK-RAMGIRI/PROJECTS/tree/main/QR-CODE)
+## 7. [WEATHER-APPLICATION](https://github.com/DEEPAK-RAMGIRI/React/tree/main/weatherApp)
+A responsive and user-friendly weather application developed using React.js, designed to fetch and display real-time weather conditions of any city worldwide. The application leverages the OpenWeather API to provide accurate data, including temperature, atmospheric pressure, humidity levels, and wind speed.
+
+![Weather Application Screenshot](https://github.com/DEEPAK-RAMGIRI/React/blob/main/weatherApp/weather.png)  
+
+
+
+## 8. [QR-CODE GENERATOR](https://github.com/DEEPAK-RAMGIRI/PROJECTS/tree/main/QR-CODE)
 This project is a web-based QR code generator that allows users to enter any URL and instantly receive a corresponding QR code. The frontend is built using HTML, CSS, and JavaScript, while the backend uses a serverless function on Vercel with the qr-image library. When a URL is submitted, the serverless function generates a PNG QR code, encodes it in Base64, and returns it to the browser, which displays it immediately without reloading the page. The project is lightweight, secure, and easy to deploy.
 
 ![QR-CODE PROJECT IMAGE](https://github.com/DEEPAK-RAMGIRI/PROJECTS/blob/main/QR-CODE/qr-code.png)
 
-## 7. [DSA-VISUALIZER](https://github.com/DEEPAK-RAMGIRI/DSA-VISUALIZER/blob/main/README.md)
-DSA-VISUALIZER is is a self-developed project where I showcase my understanding of Data Structures and Algorithms (DSA) by writing the implementations and adding a simple UI using Streamlit. The focus is on learning and demonstrating core DSA concepts with some visual representation.
 
-![Dsa project photo](https://github.com/DEEPAK-RAMGIRI/DSA-VISUALIZER/blob/main/page.png)
-
-## 8. [Hotel Brochure Design](https://www.canva.com/design/DAGIq3OqnRM/GYtdP6tfdcAs62uNdLqeNA/edit?utm_content=DAGIq3OqnRM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+## 9. [Hotel Brochure Design](https://www.canva.com/design/DAGIq3OqnRM/GYtdP6tfdcAs62uNdLqeNA/edit?utm_content=DAGIq3OqnRM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 This is a hotel brochure designed using **Canva**, aimed at presenting key features of a hotel in a visually appealing and professional layout. The design focuses on clarity, structure, and hospitality branding.
 
 ![HOTEL](https://github.com/DEEPAK-RAMGIRI/PROJECTS/blob/main/HOTEL.png)
+
