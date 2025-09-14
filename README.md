@@ -31,8 +31,14 @@ This project is a simple content-based song recommender using song lyrics. It pr
 ![Project Screenshot](https://github.com/DEEPAK-RAMGIRI/Song-Recommendation-System/blob/main/SONG%20RECCOMENDATION.png)
 
 ---
+### 5. [Helper](https://github.com/DEEPAK-RAMGIRI/helper)
+This application allows users to input stories, articles, or any custom text, and then ask questions about the content. The system uses a text summarizer to extract key points and leverages an LLM-powered Q&A module to provide accurate and contextual answers.
 
-### 5. [My LLM Chatbot](https://github.com/DEEPAK-RAMGIRI/llm/tree/main/MyBot)
+<img width="1915" height="1031" alt="image" src="https://github.com/user-attachments/assets/973d8986-2128-40d7-84b2-54f586682a4a" />
+
+---
+
+### 6. [My LLM Chatbot](https://github.com/DEEPAK-RAMGIRI/llm/tree/main/MyBot)
 Blue LLM is a personalized AI chatbot designed to share information about me, the challenges I faced during building projects, and the technical knowledge I applied in them.
 It is built using Streamlit, LangChain, and various AI model integrations, making it interactive and informative for portfolio visitors.
 
@@ -40,26 +46,26 @@ It is built using Streamlit, LangChain, and various AI model integrations, makin
 
 ---
 
-### 6. [DRUM KIT PROJECT](https://github.com/DEEPAK-RAMGIRI/PROJECTS/tree/main/GAMES/Drum%20Kit(DOM))
+### 7. [DRUM KIT PROJECT](https://github.com/DEEPAK-RAMGIRI/PROJECTS/tree/main/GAMES/Drum%20Kit(DOM))
 A web application built with HTML, CSS, and JavaScript. Users can play drum sounds by clicking buttons or pressing keys, with animations for visual feedback. It uses DOM methods for event handling and interactive sound effects.
 
 ![DRUM KIT PROJECT](https://github.com/DEEPAK-RAMGIRI/PROJECTS/blob/main/GAMES/Drum%20Kit(DOM)/DRUMKIT.png)
 
-### 7. [WEATHER + BTC MARKET PRICE APPLICATION](https://github.com/DEEPAK-RAMGIRI/React/tree/main/weatherandBTC)
+### 8. [WEATHER + BTC MARKET PRICE APPLICATION](https://github.com/DEEPAK-RAMGIRI/React/tree/main/weatherandBTC)
 A React.js web application that provides real-time weather updates (temperature, pressure, humidity, wind speed) for any city, along with a dedicated page to track the current Bitcoin price in INR and USD
 
 ![Weather Application Screenshot](https://github.com/DEEPAK-RAMGIRI/React/blob/main/weatherandBTC/weather%2BBTC.png)  
 
 ---
 
-### 8. [QR-CODE GENERATOR](https://github.com/DEEPAK-RAMGIRI/PROJECTS/tree/main/QR-CODE)
+### 9. [QR-CODE GENERATOR](https://github.com/DEEPAK-RAMGIRI/PROJECTS/tree/main/QR-CODE)
 This project is a web-based QR code generator that allows users to enter any URL and instantly receive a corresponding QR code. The frontend is built using HTML, CSS, and JavaScript, while the backend uses a serverless function on Vercel with the qr-image library. When a URL is submitted, the serverless function generates a PNG QR code, encodes it in Base64, and returns it to the browser, which displays it immediately without reloading the page. The project is lightweight, secure, and easy to deploy.
 
 ![QR-CODE PROJECT IMAGE](https://github.com/DEEPAK-RAMGIRI/PROJECTS/blob/main/QR-CODE/qr-code.png)
 
 ---
 
-### 9. [Hotel Brochure Design](https://www.canva.com/design/DAGIq3OqnRM/GYtdP6tfdcAs62uNdLqeNA/edit?utm_content=DAGIq3OqnRM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+### 10. [Hotel Brochure Design](https://www.canva.com/design/DAGIq3OqnRM/GYtdP6tfdcAs62uNdLqeNA/edit?utm_content=DAGIq3OqnRM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 This is a hotel brochure designed using **Canva**, aimed at presenting key features of a hotel in a visually appealing and professional layout. The design focuses on clarity, structure, and hospitality branding.
 
 ![HOTEL](https://github.com/DEEPAK-RAMGIRI/PROJECTS/blob/main/HOTEL.png)
