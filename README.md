@@ -51,6 +51,8 @@ A web application built with HTML, CSS, and JavaScript. Users can play drum soun
 
 ![DRUM KIT PROJECT](https://github.com/DEEPAK-RAMGIRI/PROJECTS/blob/main/GAMES/Drum%20Kit(DOM)/DRUMKIT.png)
 
+---
+
 ### 8. [WEATHER + BTC MARKET PRICE APPLICATION](https://github.com/DEEPAK-RAMGIRI/React/tree/main/weatherandBTC)
 A React.js web application that provides real-time weather updates (temperature, pressure, humidity, wind speed) for any city, along with a dedicated page to track the current Bitcoin price in INR and USD
 
