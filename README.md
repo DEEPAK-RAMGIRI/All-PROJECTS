@@ -1,8 +1,5 @@
-<h1 align="center"> MY PROJECTS </h1>
-Hi there! 👋 
-
-Welcome to my **Projects** section — a curated collection of my best work, where I showcase hands-on learning, creativity, and technical skills across different domains.
-
+<h1 align="center"> Hi there! 👋 Welcome to  <b>MY PROJECTS</b> section</h1>  
+This repo is about some of my best project collections. These are projects I built while learning and experimenting with web development and programming. Each project shows what I was able to create, experiment with, and improve on during my learning journey.
 ----
 ### 1. [My Portfolio](https://github.com/DEEPAK-RAMGIRI/PORTFOLIO-FINAL)
 This is my portfolio — a complete showcase of who I am and what I do.
