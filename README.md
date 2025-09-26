@@ -67,9 +67,9 @@ This project is a web-based QR code generator that allows users to enter any URL
 
 ---
 
-### 10. [Hotel Brochure Design](https://www.canva.com/design/DAGIq3OqnRM/GYtdP6tfdcAs62uNdLqeNA/edit?utm_content=DAGIq3OqnRM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-This is a hotel brochure designed using **Canva**, aimed at presenting key features of a hotel in a visually appealing and professional layout. The design focuses on clarity, structure, and hospitality branding.
-
-![HOTEL](https://github.com/DEEPAK-RAMGIRI/PROJECTS/blob/main/HOTEL.png)
+### 10. [All Other Projects](https://github.com/DEEPAK-RAMGIRI/PROJECTS/tree/main)
+A collection of **smaller projects** I built while learning and experimenting with new technologies.  
 
 ---
+
+<h3 align="center"> Thanks for visiting! Feel free to explore my projects and connect with me. </h3>
