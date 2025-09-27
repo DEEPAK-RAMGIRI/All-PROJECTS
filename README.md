@@ -72,3 +72,4 @@ A collection of **smaller projects** I built while learning and experimenting wi
 ---
 
 <h3 align="center"> Thanks for visiting! Feel free to explore my projects and connect with me. </h3>
+---
