@@ -66,7 +66,22 @@ This project is a web-based QR code generator that allows users to enter any URL
 
 ---
 
-### 10. [All Other Projects](https://github.com/DEEPAK-RAMGIRI/PROJECTS/tree/main)
+### 10. [RE-VIEW](https://github.com/DEEPAK-RAMGIRI/RE-VIEW)
+RE-VIEW is a personalized media review web app inspired by IMDb, where users can save, rate, and describe their favorite scenes from movies, anime, series, or novels. The idea came from my habit of capturing memorable moments and wanting a platform to organize them. As a beginner in Node.js and full-stack development, I built this using Vibe Coding for AI-assisted implementation. The project uses React for the frontend, Node.js for the backend, and MongoDB Atlas for the database. It reflects my creative journey of turning ideas into a functional full-stack application.
+
+![RE-VIEW](https://github.com/DEEPAK-RAMGIRI/RE-VIEW/blob/main/RE-VIEW.png)
+
+---
+
+### 11. [Foodies 2.0](https://github.com/DEEPAK-RAMGIRI/newprojects)
+Foodies 2.0 is a responsive online restaurant app where users can explore menus, view dish details, add items to the cart, and place orders seamlessly. Built using the MERN stack (MongoDB, Express, React, Node.js), it ensures a smooth user experience. The app includes a Dialogflow chatbot for interactive support, with the frontend on Vercel, backend on Render, and MongoDB managing menu and order data.
+
+![Foodies-2.0.photos](https://github.com/DEEPAK-RAMGIRI/newprojects/blob/main/Foodies/foodies%202.0.png)
+
+
+---
+
+### 12. [All Other Projects](https://github.com/DEEPAK-RAMGIRI/PROJECTS/tree/main)
 A collection of **smaller projects** I built while learning and experimenting with new technologies.  
 
 ---
