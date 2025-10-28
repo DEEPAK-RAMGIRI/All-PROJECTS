@@ -53,6 +53,7 @@ A web application built with HTML, CSS, and JavaScript. Users can play drum soun
 ---
 
 ### 8. [WEATHER + BTC MARKET PRICE APPLICATION](https://github.com/DEEPAK-RAMGIRI/React/tree/main/weatherandBTC)
+
 A React.js web application that provides real-time weather updates (temperature, pressure, humidity, wind speed) for any city, along with a dedicated page to track the current Bitcoin price in INR and USD
 
 ![Weather Application Screenshot](https://github.com/DEEPAK-RAMGIRI/React/blob/main/weatherandBTC/weather%2BBTC.png)  
