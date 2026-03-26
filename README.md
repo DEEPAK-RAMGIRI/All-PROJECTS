@@ -10,34 +10,43 @@ Here, you'll find all my major projects, my skills, certifications, and what Iâ€
 ![My Portfolio](https://github.com/DEEPAK-RAMGIRI/PORTFOLIO-FINAL/blob/main/my%20portfolio.png)
 
 ---
-### 2. [Foodies](https://github.com/DEEPAK-RAMGIRI/foodies)
+
+### 2. [OrganicBuddy](https://github.com/DEEPAK-RAMGIRI/ORGANIC_RECOMENDATOR)
+Organic Buddy is an AI-powered full-stack web application that helps farmers transition from chemical inputs to sustainable organic alternatives by analyzing crop and chemical data using TF-IDF and a Large Language Model. Built with Python (Flask), React, and MongoDB Atlas, it provides personalized organic solutions and demonstrates the real-world application of Artificial Intelligence in agriculture.
+
+![Screen Shot](https://github.com/DEEPAK-RAMGIRI/ORGANIC_RECOMENDATOR/blob/main/images/Screenshot%202026-03-25%20172216.png)
+
+
+---
+
+### 3. [Foodies](https://github.com/DEEPAK-RAMGIRI/foodies)
 Foodies is a responsive, single-page restaurant website built using React.js. It features a modern UI, interactive chatbot integration using Dialogflow, and is deployed using Vercel for fast and scalable access.
 
 ![Foodies ScreenShot](https://github.com/DEEPAK-RAMGIRI/foodies/blob/main/Foodies.png)
 
 ---
 
-### 3. [DSA-VISUALIZER](https://github.com/DEEPAK-RAMGIRI/DSA-VISUALIZER/blob/main/README.md)
+### 4. [DSA-VISUALIZER](https://github.com/DEEPAK-RAMGIRI/DSA-VISUALIZER/blob/main/README.md)
 DSA-VISUALIZER is is a self-developed project where I showcase my understanding of Data Structures and Algorithms (DSA) by writing the implementations and adding a simple UI using Streamlit. The focus is on learning and demonstrating core DSA concepts with some visual representation.
 
 ![Dsa project photo](https://github.com/DEEPAK-RAMGIRI/DSA-VISUALIZER/blob/main/page.png)
 
 ---
 
-### 4. [Song Recommendation System](https://github.com/DEEPAK-RAMGIRI/Song-Recommendation-System)
+### 5. [Song Recommendation System](https://github.com/DEEPAK-RAMGIRI/Song-Recommendation-System)
 This project is a simple content-based song recommender using song lyrics. It preprocesses lyrics, converts them into TF-IDF vectors, and uses cosine similarity to suggest songs with similar lyrics. Built with Pandas, Scikit-learn, and NLTK, it analyzes a sample of 25,000 songs for fast and meaningful recommendations.
 
 ![Project Screenshot](https://github.com/DEEPAK-RAMGIRI/Song-Recommendation-System/blob/main/SONG%20RECCOMENDATION.png)
 
 ---
-### 5. [EXEGESIS](https://github.com/DEEPAK-RAMGIRI/helper)
+### 6. [EXEGESIS](https://github.com/DEEPAK-RAMGIRI/helper)
 This application allows users to input stories, articles, or any custom text, and then ask questions about the content. The system uses a text summarizer to extract key points and leverages an LLM-powered Q&A module to provide accurate and contextual answers.
 
 <img width="1915" height="1031" alt="image" src="https://github.com/user-attachments/assets/973d8986-2128-40d7-84b2-54f586682a4a" />
 
 ---
 
-### 6. [My LLM Chatbot](https://github.com/DEEPAK-RAMGIRI/llm/tree/main/MyBot)
+### 7. [My LLM Chatbot](https://github.com/DEEPAK-RAMGIRI/llm/tree/main/MyBot)
 Blue LLM is a personalized AI chatbot designed to share information about me, the challenges I faced during building projects, and the technical knowledge I applied in them.
 It is built using Streamlit, LangChain, and various AI model integrations, making it interactive and informative for portfolio visitors.
 
@@ -45,18 +54,10 @@ It is built using Streamlit, LangChain, and various AI model integrations, makin
 
 ---
 
-### 7. [DRUM KIT PROJECT](https://github.com/DEEPAK-RAMGIRI/PROJECTS/tree/main/GAMES/Drum%20Kit(DOM))
+### 8. [DRUM KIT PROJECT](https://github.com/DEEPAK-RAMGIRI/PROJECTS/tree/main/GAMES/Drum%20Kit(DOM))
 A web application built with HTML, CSS, and JavaScript. Users can play drum sounds by clicking buttons or pressing keys, with animations for visual feedback. It uses DOM methods for event handling and interactive sound effects.
 
 ![DRUM KIT PROJECT](https://github.com/DEEPAK-RAMGIRI/PROJECTS/blob/main/GAMES/Drum%20Kit(DOM)/DRUMKIT.png)
-
----
-
-### 8. [WEATHER + BTC MARKET PRICE APPLICATION](https://github.com/DEEPAK-RAMGIRI/React/tree/main/weatherandBTC)
-
-A React.js web application that provides real-time weather updates (temperature, pressure, humidity, wind speed) for any city, along with a dedicated page to track the current Bitcoin price in INR and USD
-
-![Weather Application Screenshot](https://github.com/DEEPAK-RAMGIRI/React/blob/main/weatherandBTC/weather%2BBTC.png)  
 
 ---
 
